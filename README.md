@@ -36,7 +36,7 @@ O objetivo dessa aplicação é demostrar como integrar o serviço do Watson Dis
 
 ## Deploy na IBM Cloud
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ibm-code-br/Assistant-and-Discovery-Demo)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/brunocicom/Assistant-and-Discovery-Demo)
 
 **Lembre-se de criar sua IAM Key clicando no botão Create**
 
